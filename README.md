@@ -10,6 +10,8 @@ Horiseon has requested a refactoring for the sake of accessibility and SEO ranki
 
 > ![hero image with title showing on cursor hover](Screenshot.png)
 
+> ![HTML code showing updates to div tags and class consolidation](Code-Screenshot.png)
+
 ### Live Site
 https://erinnmatesi.github.io/Week1-Refactoring-Homework/
 
